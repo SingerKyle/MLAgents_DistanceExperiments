@@ -1,0 +1,47 @@
+{
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 499972,
+                "file_path": "results\\=NewMovement3DTes\\Agent Control\\Agent Control-499972.onnx",
+                "reward": 5.407866115632157,
+                "creation_time": 1710532248.3522635,
+                "auxillary_file_paths": [
+                    "results\\=NewMovement3DTes\\Agent Control\\Agent Control-499972.pt"
+                ]
+            },
+            {
+                "steps": 999993,
+                "file_path": "results\\=NewMovement3DTes\\Agent Control\\Agent Control-999993.onnx",
+                "reward": 69.97452477046421,
+                "creation_time": 1710532788.280389,
+                "auxillary_file_paths": [
+                    "results\\=NewMovement3DTes\\Agent Control\\Agent Control-999993.pt"
+                ]
+            },
+            {
+                "steps": 1000057,
+                "file_path": "results\\=NewMovement3DTes\\Agent Control\\Agent Control-1000057.onnx",
+                "reward": 69.97452477046421,
+                "creation_time": 1710532788.5968103,
+                "auxillary_file_paths": [
+                    "results\\=NewMovement3DTes\\Agent Control\\Agent Control-1000057.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000057,
+            "file_path": "results\\=NewMovement3DTes\\Agent Control.onnx",
+            "reward": 69.97452477046421,
+            "creation_time": 1710532788.5968103,
+            "auxillary_file_paths": [
+                "results\\=NewMovement3DTes\\Agent Control\\Agent Control-1000057.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

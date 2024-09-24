@@ -1,0 +1,65 @@
+{
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 2499997,
+                "file_path": "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-2499997.onnx",
+                "reward": 12.144767894607503,
+                "creation_time": 1711054538.4964938,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-2499997.pt"
+                ]
+            },
+            {
+                "steps": 2999991,
+                "file_path": "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-2999991.onnx",
+                "reward": 10.483209072072887,
+                "creation_time": 1711055166.2978108,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-2999991.pt"
+                ]
+            },
+            {
+                "steps": 3499973,
+                "file_path": "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-3499973.onnx",
+                "reward": 11.617099533641918,
+                "creation_time": 1711055796.7158592,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-3499973.pt"
+                ]
+            },
+            {
+                "steps": 3999987,
+                "file_path": "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-3999987.onnx",
+                "reward": 12.795495322438383,
+                "creation_time": 1711056431.6864548,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-3999987.pt"
+                ]
+            },
+            {
+                "steps": 4000006,
+                "file_path": "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-4000006.onnx",
+                "reward": 12.717345074623355,
+                "creation_time": 1711056431.7455106,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-4000006.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000006,
+            "file_path": "results\\3DObstacleTest-Euclidean_2\\Agent Control.onnx",
+            "reward": 12.717345074623355,
+            "creation_time": 1711056431.7455106,
+            "auxillary_file_paths": [
+                "results\\3DObstacleTest-Euclidean_2\\Agent Control\\Agent Control-4000006.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

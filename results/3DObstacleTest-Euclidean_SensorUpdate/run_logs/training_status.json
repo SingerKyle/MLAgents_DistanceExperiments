@@ -1,0 +1,65 @@
+{
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 2499983,
+                "file_path": "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-2499983.onnx",
+                "reward": 9.20450586457174,
+                "creation_time": 1711059647.6825268,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-2499983.pt"
+                ]
+            },
+            {
+                "steps": 2999986,
+                "file_path": "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-2999986.onnx",
+                "reward": 9.52421195689175,
+                "creation_time": 1711060226.5349278,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-2999986.pt"
+                ]
+            },
+            {
+                "steps": 3499976,
+                "file_path": "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-3499976.onnx",
+                "reward": 10.00686527209353,
+                "creation_time": 1711060912.2362247,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-3499976.pt"
+                ]
+            },
+            {
+                "steps": 3999975,
+                "file_path": "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-3999975.onnx",
+                "reward": 6.8932216711792975,
+                "creation_time": 1711061603.2267463,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-3999975.pt"
+                ]
+            },
+            {
+                "steps": 4000039,
+                "file_path": "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-4000039.onnx",
+                "reward": 6.8932216711792975,
+                "creation_time": 1711061603.2823088,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-4000039.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000039,
+            "file_path": "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control.onnx",
+            "reward": 6.8932216711792975,
+            "creation_time": 1711061603.2823088,
+            "auxillary_file_paths": [
+                "results\\3DObstacleTest-Euclidean_SensorUpdate\\Agent Control\\Agent Control-4000039.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

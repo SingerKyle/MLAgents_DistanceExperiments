@@ -1,0 +1,123 @@
+{
+    "Enemy Control": {
+        "checkpoints": [
+            {
+                "steps": 2499975,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-2499975.onnx",
+                "reward": 0.6967389963777556,
+                "creation_time": 1711037406.9354742,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-2499975.pt"
+                ]
+            },
+            {
+                "steps": 2999975,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-2999975.onnx",
+                "reward": -8.29579481906775,
+                "creation_time": 1711039039.5103307,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-2999975.pt"
+                ]
+            },
+            {
+                "steps": 3499954,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-3499954.onnx",
+                "reward": 1.4816267110096912,
+                "creation_time": 1711040709.8565452,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-3499954.pt"
+                ]
+            },
+            {
+                "steps": 3999968,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-3999968.onnx",
+                "reward": 0.045218771970751935,
+                "creation_time": 1711042506.486233,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-3999968.pt"
+                ]
+            },
+            {
+                "steps": 4000032,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-4000032.onnx",
+                "reward": 0.045218771970751935,
+                "creation_time": 1711042507.019298,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-4000032.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000032,
+            "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control.onnx",
+            "reward": 0.045218771970751935,
+            "creation_time": 1711042507.019298,
+            "auxillary_file_paths": [
+                "results\\3DObstacleAndEnemy_Euclidian\\Enemy Control\\Enemy Control-4000032.pt"
+            ]
+        }
+    },
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 2499968,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-2499968.onnx",
+                "reward": -4.4747293759769775,
+                "creation_time": 1711037406.4019895,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-2499968.pt"
+                ]
+            },
+            {
+                "steps": 2999980,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-2999980.onnx",
+                "reward": 0.3064591290772353,
+                "creation_time": 1711039039.0761247,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-2999980.pt"
+                ]
+            },
+            {
+                "steps": 3499985,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-3499985.onnx",
+                "reward": -3.083965273827407,
+                "creation_time": 1711040710.390145,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-3499985.pt"
+                ]
+            },
+            {
+                "steps": 3999945,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-3999945.onnx",
+                "reward": -2.5155638865124823,
+                "creation_time": 1711042506.9171946,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-3999945.pt"
+                ]
+            },
+            {
+                "steps": 4000009,
+                "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-4000009.onnx",
+                "reward": -2.5155638865124823,
+                "creation_time": 1711042507.1841135,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-4000009.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000009,
+            "file_path": "results\\3DObstacleAndEnemy_Euclidian\\Agent Control.onnx",
+            "reward": -2.5155638865124823,
+            "creation_time": 1711042507.1841135,
+            "auxillary_file_paths": [
+                "results\\3DObstacleAndEnemy_Euclidian\\Agent Control\\Agent Control-4000009.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

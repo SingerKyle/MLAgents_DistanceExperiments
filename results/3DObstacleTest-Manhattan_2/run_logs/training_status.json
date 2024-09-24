@@ -1,0 +1,65 @@
+{
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 2499974,
+                "file_path": "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-2499974.onnx",
+                "reward": 8.507270254763277,
+                "creation_time": 1711145701.4852967,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-2499974.pt"
+                ]
+            },
+            {
+                "steps": 2999984,
+                "file_path": "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-2999984.onnx",
+                "reward": 7.590740812302101,
+                "creation_time": 1711146707.4207199,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-2999984.pt"
+                ]
+            },
+            {
+                "steps": 3499969,
+                "file_path": "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-3499969.onnx",
+                "reward": 9.52739578294384,
+                "creation_time": 1711147692.7488968,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-3499969.pt"
+                ]
+            },
+            {
+                "steps": 3999977,
+                "file_path": "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-3999977.onnx",
+                "reward": 10.602576672010834,
+                "creation_time": 1711148572.0764546,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-3999977.pt"
+                ]
+            },
+            {
+                "steps": 4000041,
+                "file_path": "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-4000041.onnx",
+                "reward": 10.602576672010834,
+                "creation_time": 1711148572.143851,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-4000041.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000041,
+            "file_path": "results\\3DObstacleTest-Manhattan_2\\Agent Control.onnx",
+            "reward": 10.602576672010834,
+            "creation_time": 1711148572.143851,
+            "auxillary_file_paths": [
+                "results\\3DObstacleTest-Manhattan_2\\Agent Control\\Agent Control-4000041.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

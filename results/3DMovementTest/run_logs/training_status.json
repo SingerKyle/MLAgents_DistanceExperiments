@@ -1,0 +1,56 @@
+{
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 499965,
+                "file_path": "results\\3DMovementTest\\Agent Control\\Agent Control-499965.onnx",
+                "reward": 254.79344787597657,
+                "creation_time": 1710586568.7957578,
+                "auxillary_file_paths": [
+                    "results\\3DMovementTest\\Agent Control\\Agent Control-499965.pt"
+                ]
+            },
+            {
+                "steps": 999970,
+                "file_path": "results\\3DMovementTest\\Agent Control\\Agent Control-999970.onnx",
+                "reward": null,
+                "creation_time": 1710587366.815969,
+                "auxillary_file_paths": [
+                    "results\\3DMovementTest\\Agent Control\\Agent Control-999970.pt"
+                ]
+            },
+            {
+                "steps": 1451239,
+                "file_path": "results\\3DMovementTest\\Agent Control\\Agent Control-1451239.onnx",
+                "reward": 122.06643191973369,
+                "creation_time": 1710588156.4759977,
+                "auxillary_file_paths": [
+                    "results\\3DMovementTest\\Agent Control\\Agent Control-1451239.pt"
+                ]
+            },
+            {
+                "steps": 1464773,
+                "file_path": "results\\3DMovementTest\\Agent Control\\Agent Control-1464773.onnx",
+                "reward": 5.026646720827557,
+                "creation_time": 1710595380.2201686,
+                "auxillary_file_paths": [
+                    "results\\3DMovementTest\\Agent Control\\Agent Control-1464773.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1464773,
+            "file_path": "results\\3DMovementTest\\Agent Control.onnx",
+            "reward": 5.026646720827557,
+            "creation_time": 1710595380.2201686,
+            "auxillary_file_paths": [
+                "results\\3DMovementTest\\Agent Control\\Agent Control-1464773.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

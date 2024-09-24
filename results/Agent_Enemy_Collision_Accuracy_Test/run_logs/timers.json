@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1711361784",
+        "python_version": "3.10.12 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 19:01:18) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\Anaconda\\envs\\mlagents\\Scripts\\mlagents-learn ./configuration.yaml --run-id=Agent_Enemy_Collision_Accuracy_Test",
+        "mlagents_version": "1.0.0",
+        "mlagents_envs_version": "1.0.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.13.1+cu117",
+        "numpy_version": "1.23.1",
+        "end_time_seconds": "1711361791"
+    },
+    "total": 7.413574400000016,
+    "count": 1,
+    "self": 0.029000399999858928,
+    "children": {
+        "run_training.setup": {
+            "total": 0.16874350000011873,
+            "count": 1,
+            "self": 0.16874350000011873
+        },
+        "TrainerController.start_learning": {
+            "total": 7.215830500000038,
+            "count": 1,
+            "self": 0.00020189999986541807,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 7.215613000000076,
+                    "count": 1,
+                    "self": 7.215613000000076
+                },
+                "TrainerController._save_models": {
+                    "total": 1.560000009703799e-05,
+                    "count": 1,
+                    "self": 1.560000009703799e-05
+                }
+            }
+        }
+    }
+}

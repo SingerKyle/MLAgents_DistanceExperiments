@@ -1,0 +1,65 @@
+{
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 2499996,
+                "file_path": "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-2499996.onnx",
+                "reward": 7.4017627655111,
+                "creation_time": 1711284364.353611,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-2499996.pt"
+                ]
+            },
+            {
+                "steps": 2999978,
+                "file_path": "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-2999978.onnx",
+                "reward": 11.169453132148508,
+                "creation_time": 1711285081.9880915,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-2999978.pt"
+                ]
+            },
+            {
+                "steps": 3499995,
+                "file_path": "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-3499995.onnx",
+                "reward": 10.886750258216594,
+                "creation_time": 1711285760.6328926,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-3499995.pt"
+                ]
+            },
+            {
+                "steps": 3999986,
+                "file_path": "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-3999986.onnx",
+                "reward": 9.822459019601553,
+                "creation_time": 1711286398.2883222,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-3999986.pt"
+                ]
+            },
+            {
+                "steps": 4000014,
+                "file_path": "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-4000014.onnx",
+                "reward": 9.86140227673048,
+                "creation_time": 1711286398.3423707,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-4000014.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000014,
+            "file_path": "results\\3DObstacleTest_Chebyshev_2\\Agent Control.onnx",
+            "reward": 9.86140227673048,
+            "creation_time": 1711286398.3423707,
+            "auxillary_file_paths": [
+                "results\\3DObstacleTest_Chebyshev_2\\Agent Control\\Agent Control-4000014.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

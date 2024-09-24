@@ -1,0 +1,65 @@
+{
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 499991,
+                "file_path": "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-499991.onnx",
+                "reward": 5.042265055692788,
+                "creation_time": 1710588852.5478985,
+                "auxillary_file_paths": [
+                    "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-499991.pt"
+                ]
+            },
+            {
+                "steps": 999994,
+                "file_path": "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-999994.onnx",
+                "reward": 5.043663011413315,
+                "creation_time": 1710589601.4295769,
+                "auxillary_file_paths": [
+                    "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-999994.pt"
+                ]
+            },
+            {
+                "steps": 1499996,
+                "file_path": "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-1499996.onnx",
+                "reward": 5.044313579205646,
+                "creation_time": 1710590389.5393767,
+                "auxillary_file_paths": [
+                    "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-1499996.pt"
+                ]
+            },
+            {
+                "steps": 1999992,
+                "file_path": "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-1999992.onnx",
+                "reward": 5.041901095813473,
+                "creation_time": 1710591190.6631947,
+                "auxillary_file_paths": [
+                    "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-1999992.pt"
+                ]
+            },
+            {
+                "steps": 2000001,
+                "file_path": "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-2000001.onnx",
+                "reward": 5.042029057678423,
+                "creation_time": 1710591190.715241,
+                "auxillary_file_paths": [
+                    "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-2000001.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000001,
+            "file_path": "results\\3DMovementTest-BaseBrain\\Agent Control.onnx",
+            "reward": 5.042029057678423,
+            "creation_time": 1710591190.715241,
+            "auxillary_file_paths": [
+                "results\\3DMovementTest-BaseBrain\\Agent Control\\Agent Control-2000001.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

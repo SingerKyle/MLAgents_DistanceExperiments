@@ -1,0 +1,65 @@
+{
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 499992,
+                "file_path": "results\\3DObstacleTest\\Agent Control\\Agent Control-499992.onnx",
+                "reward": -6.933285819087177,
+                "creation_time": 1710682620.5537283,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest\\Agent Control\\Agent Control-499992.pt"
+                ]
+            },
+            {
+                "steps": 999966,
+                "file_path": "results\\3DObstacleTest\\Agent Control\\Agent Control-999966.onnx",
+                "reward": null,
+                "creation_time": 1710683276.0658789,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest\\Agent Control\\Agent Control-999966.pt"
+                ]
+            },
+            {
+                "steps": 1499976,
+                "file_path": "results\\3DObstacleTest\\Agent Control\\Agent Control-1499976.onnx",
+                "reward": 5.06000913772732,
+                "creation_time": 1710683890.250651,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest\\Agent Control\\Agent Control-1499976.pt"
+                ]
+            },
+            {
+                "steps": 1999954,
+                "file_path": "results\\3DObstacleTest\\Agent Control\\Agent Control-1999954.onnx",
+                "reward": 5.040300966985524,
+                "creation_time": 1710684501.9249384,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest\\Agent Control\\Agent Control-1999954.pt"
+                ]
+            },
+            {
+                "steps": 2000018,
+                "file_path": "results\\3DObstacleTest\\Agent Control\\Agent Control-2000018.onnx",
+                "reward": 5.040300966985524,
+                "creation_time": 1710684502.0256157,
+                "auxillary_file_paths": [
+                    "results\\3DObstacleTest\\Agent Control\\Agent Control-2000018.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000018,
+            "file_path": "results\\3DObstacleTest\\Agent Control.onnx",
+            "reward": 5.040300966985524,
+            "creation_time": 1710684502.0256157,
+            "auxillary_file_paths": [
+                "results\\3DObstacleTest\\Agent Control\\Agent Control-2000018.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}

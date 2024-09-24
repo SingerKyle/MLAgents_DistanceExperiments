@@ -1,0 +1,65 @@
+{
+    "Agent Control": {
+        "checkpoints": [
+            {
+                "steps": 499985,
+                "file_path": "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-499985.onnx",
+                "reward": -12.970534669769997,
+                "creation_time": 1711362452.2690134,
+                "auxillary_file_paths": [
+                    "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-499985.pt"
+                ]
+            },
+            {
+                "steps": 999962,
+                "file_path": "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-999962.onnx",
+                "reward": -8.190346424303511,
+                "creation_time": 1711362889.559981,
+                "auxillary_file_paths": [
+                    "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-999962.pt"
+                ]
+            },
+            {
+                "steps": 1499999,
+                "file_path": "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-1499999.onnx",
+                "reward": 1.2160627249810287,
+                "creation_time": 1711363320.2118034,
+                "auxillary_file_paths": [
+                    "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-1499999.pt"
+                ]
+            },
+            {
+                "steps": 1999998,
+                "file_path": "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-1999998.onnx",
+                "reward": 1.374716228633923,
+                "creation_time": 1711363752.3947186,
+                "auxillary_file_paths": [
+                    "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-1999998.pt"
+                ]
+            },
+            {
+                "steps": 2000062,
+                "file_path": "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-2000062.onnx",
+                "reward": 1.374716228633923,
+                "creation_time": 1711363752.454598,
+                "auxillary_file_paths": [
+                    "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-2000062.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000062,
+            "file_path": "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control.onnx",
+            "reward": 1.374716228633923,
+            "creation_time": 1711363752.454598,
+            "auxillary_file_paths": [
+                "results\\EuclideanAgent_Collision_Accuracy_Test\\Agent Control\\Agent Control-2000062.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "1.13.1+cu117"
+    }
+}
